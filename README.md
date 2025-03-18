@@ -24,6 +24,9 @@ Currently, it has 2 features:
 
 - **Required Software**: .NET 8
 - **Operating Systems**: Windows, Linux, macOS
+- **Postman**: To test the API endpoints
+
+<em>There is no UI implemented for this.</em>
 
 ### Steps
 1. Clone the repository:
